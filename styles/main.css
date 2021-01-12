@@ -9630,3 +9630,5 @@ photos .photo:last-child {
         background: fixed linear-gradient(to right bottom, #E5158E, #B319A5, #8A1CB8, #5F1FCC, #3023E2);;
       }
     
+      a.ctag-le-gao{background-color: #01E0C0 !important}
+    
